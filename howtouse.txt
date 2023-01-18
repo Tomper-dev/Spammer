@@ -1,0 +1,12 @@
+How to use the Spammer
+
+On the first square, enter what you want to send.
+
+After that, write down how many times you want to send it.
+
+When you star the spam, a 3 second delay will start so you can click where you want to write.
+The program won't close after it is done spamming.
+
+THE PROGRAM IS NOT MEANT FOR HARM TO OTHERS, ONLY FOR FUN!
+
+Note: It won't work if you put letters on the 'How many times' section, that will result in a bug.
